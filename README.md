@@ -8,9 +8,6 @@ Department of Computer Engineering, SEOULTECH
 
 ### 💡 Interests 
 
- Backend Development<br>
- Machine Learning
-<br>
 
 
 <br>
