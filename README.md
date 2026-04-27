@@ -19,6 +19,9 @@ Department of Computer Engineering, SEOULTECH
 <img src="https://img.shields.io/badge/Spring-ADB2D4?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Android-D5E5D5?style=for-the-badge&logo=Android&logoColor=white">
 <br>
+<hr>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=szoyoung)](https://solved.ac/szoyoung)
 
 
 </div>
